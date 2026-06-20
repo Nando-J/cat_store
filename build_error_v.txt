@@ -1,0 +1,126 @@
+﻿[ +221 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +4 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[        ] executing: [E:\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[  +79 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2026-05-29 12:13:22 -0400
+[  +17 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +62 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +90 ms] Skipping pub get: version match.
+[ +120 ms] Found plugin firebase_core at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.11.0\
+[  +10 ms] Found plugin firebase_core_web at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.9.0\
+[  +11 ms] Found plugin firebase_auth at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-6.5.3\
+[   +3 ms] Found plugin firebase_auth_web at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-6.2.3\
+[  +14 ms] Found plugin cloud_firestore at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.6.0\
+[   +2 ms] Found plugin cloud_firestore_web at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-5.6.0\
+[  +86 ms] Found plugin firebase_core at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.11.0\
+[   +2 ms] Found plugin firebase_core_web at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.9.0\
+[   +5 ms] Found plugin firebase_auth at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-6.5.3\
+[   +1 ms] Found plugin firebase_auth_web at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-6.2.3\
+[  +10 ms] Found plugin cloud_firestore at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.6.0\
+[   +1 ms] Found plugin cloud_firestore_web at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-5.6.0\
+[  +18 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +49 ms] Found plugin firebase_core at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-4.11.0\
+[   +1 ms] Found plugin firebase_core_web at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-3.9.0\
+[   +6 ms] Found plugin firebase_auth at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-6.5.3\
+[   +2 ms] Found plugin firebase_auth_web at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-6.2.3\
+[   +8 ms] Found plugin cloud_firestore at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.6.0\
+[   +1 ms] Found plugin cloud_firestore_web at C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-5.6.0\
+[   +6 ms] Generating E:\cat_store\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[   +5 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +4 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[ +177 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[ +153 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[        ] openjdk version "21.0.8" 2025-07-15
+           OpenJDK Runtime Environment (build 21.0.8+-14196175-b1038.72)
+           OpenJDK 64-Bit Server VM (build 21.0.8+-14196175-b1038.72, mixed mode)
+[  +10 ms] Top-level Gradle build file not found, skipping migration of task "clean".
+[   +2 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java --version
+[ +168 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java --version
+[        ] openjdk 21.0.8 2025-07-15
+           OpenJDK Runtime Environment (build 21.0.8+-14196175-b1038.72)
+           OpenJDK 64-Bit Server VM (build 21.0.8+-14196175-b1038.72, mixed mode)
+[   +1 ms] Version of Java is different than impacted version, no migration attempted.
+[   +2 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[  +12 ms] The developer has already configured the Built-In Kotlin flag, skipping migration.
+[   +1 ms] The developer has already configured the new DSL flag, skipping migration.
+[   +4 ms] Using gradle from E:\cat_store\android\gradlew.bat.
+[  +11 ms] LocalFile: 'E:\cat_store\android\build.gradle.kts' doesn't provide an AGP version. Checking settings.
+[        ] LocalFile: 'E:\cat_store\android\settings.gradle.kts' provides AGP version: 8.11.1
+[  +19 ms] Running Gradle task 'assembleDebug'...
+[   +1 ms] executing: [E:\cat_store\android/] E:\cat_store\android\gradlew.bat --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib\main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuNDQuMQ==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049OTI0MTM0YTQ0Yw==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049YzQxNmFjZmViOA==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMi4x -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=false assembleDebug
+[ +326 ms] Downloading https://services.gradle.org/distributions/gradle-8.14.0-bin.zip
+[  +42 ms] Running Gradle task 'assembleDebug'... (completed in 10.5s)
+[   +1 ms] Retrying Gradle Build: #1, wait time: 100ms
+[ +103 ms] LocalFile: 'E:\cat_store\android\build.gradle.kts' doesn't provide an AGP version. Checking settings.
+[        ] LocalFile: 'E:\cat_store\android\settings.gradle.kts' provides AGP version: 8.11.1
+[  +21 ms] Running Gradle task 'assembleDebug'...
+[        ] executing: [E:\cat_store\android/] E:\cat_store\android\gradlew.bat --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib\main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuNDQuMQ==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049OTI0MTM0YTQ0Yw==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049YzQxNmFjZmViOA==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMi4x -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=false assembleDebug
+[ +307 ms] Downloading https://services.gradle.org/distributions/gradle-8.14.0-bin.zip
+[  +62 ms] Running Gradle task 'assembleDebug'... (completed in 1,520ms)
+[  +94 ms] "flutter apk" took 13,429ms.
+[   +1 ms] Running 1 shutdown hook
+[   +1 ms] Shutdown hooks complete
+[ +259 ms] exiting with code 1

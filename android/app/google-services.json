@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721127813741",
+    "project_id": "catstore-1b007",
+    "storage_bucket": "catstore-1b007.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721127813741:android:ca3e0bbe82696cee84c564",
+        "android_client_info": {
+          "package_name": "com.example.cat_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyO0yBhKq6CxhVWT4x6KpvosWIEuUncAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
